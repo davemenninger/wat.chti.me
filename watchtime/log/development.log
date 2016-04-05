@@ -1,0 +1,44 @@
+[Tue Apr  5 16:56:57 2016] [info] Listening at "http://[::]:3001".
+[Tue Apr  5 17:00:02 2016] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr  5 17:00:03 2016] [debug] GET "/".
+[Tue Apr  5 17:00:04 2016] [debug] Routing to controller "Watchtime::Controller::Example" and action "welcome".
+[Tue Apr  5 17:00:04 2016] [debug] Rendering template "example/welcome.html.ep".
+[Tue Apr  5 17:00:04 2016] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr  5 17:00:06 2016] [debug] 200 OK (2.311140s, 0.433/s).
+[Tue Apr  5 17:00:57 2016] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr  5 17:00:57 2016] [debug] GET "/".
+[Tue Apr  5 17:00:57 2016] [debug] Routing to controller "Watchtime::Controller::Example" and action "welcome".
+[Tue Apr  5 17:00:57 2016] [debug] Rendering template "example/welcome.html.ep".
+[Tue Apr  5 17:00:57 2016] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr  5 17:00:57 2016] [debug] 200 OK (0.011897s, 84.055/s).
+[Tue Apr  5 19:40:25 2016] [debug] GET "/".
+[Tue Apr  5 19:40:25 2016] [debug] Routing to controller "Watchtime::Controller::Example" and action "welcome".
+[Tue Apr  5 19:40:25 2016] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Apr  5 19:40:25 2016] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Apr  5 19:40:25 2016] [debug] 200 OK (0.004937s, 202.552/s).
+[Tue Apr  5 19:41:23 2016] [debug] GET "/".
+[Tue Apr  5 19:41:23 2016] [debug] Routing to controller "Watchtime::Controller::Example" and action "welcome".
+[Tue Apr  5 19:41:23 2016] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Apr  5 19:41:23 2016] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Apr  5 19:41:23 2016] [debug] 200 OK (0.007028s, 142.288/s).
+[Tue Apr  5 19:41:25 2016] [debug] GET "/".
+[Tue Apr  5 19:41:25 2016] [debug] Routing to controller "Watchtime::Controller::Example" and action "welcome".
+[Tue Apr  5 19:41:25 2016] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Apr  5 19:41:25 2016] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Apr  5 19:41:25 2016] [debug] 200 OK (0.002579s, 387.747/s).
+[Tue Apr  5 19:41:30 2016] [debug] GET "/".
+[Tue Apr  5 19:41:30 2016] [debug] Routing to controller "Watchtime::Controller::Example" and action "welcome".
+[Tue Apr  5 19:41:30 2016] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Apr  5 19:41:30 2016] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Apr  5 19:41:30 2016] [debug] 200 OK (0.007908s, 126.454/s).
+[Tue Apr  5 19:41:40 2016] [debug] GET "/blah".
+[Tue Apr  5 19:41:40 2016] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  5 19:41:40 2016] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  5 19:41:40 2016] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Tue Apr  5 19:41:40 2016] [debug] Rendering inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Tue Apr  5 19:41:40 2016] [debug] 404 Not Found (0.049082s, 20.374/s).
+[Tue Apr  5 19:44:48 2016] [debug] GET "/".
+[Tue Apr  5 19:44:48 2016] [debug] Routing to controller "Watchtime::Controller::Example" and action "welcome".
+[Tue Apr  5 19:44:48 2016] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Apr  5 19:44:48 2016] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Apr  5 19:44:48 2016] [debug] 200 OK (0.001913s, 522.739/s).
