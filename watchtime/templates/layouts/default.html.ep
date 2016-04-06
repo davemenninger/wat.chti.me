@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
-  <head><title><%= title %></title></head>
+  <head>
+    <title><%= title %></title>
+    <link rel="shortcut icon" href="1459980137_tv.png" />
+  </head>
   <body><%= content %></body>
 </html>
